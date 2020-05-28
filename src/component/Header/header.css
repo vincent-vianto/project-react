@@ -1,0 +1,30 @@
+.header-cover {
+    background: url(https://cdn.pixabay.com/photo/2019/07/14/16/29/pen-4337524_960_720.jpg);
+    background-size: cover;
+    overflow: hidden;
+    background-repeat: no-repeat;
+}
+
+
+.header-box {
+    width: 450px;
+    background-color: rgba(0, 0, 0, 0.4);
+    padding: 40px;
+    margin: auto;
+    margin-top: 10%;
+    margin-bottom: 10%;
+    color: white;
+    text-align: center;
+}
+
+.header-box p {
+    color: rgb(206, 193, 193);
+    text-align: left;
+    margin-top: 20px;
+}
+
+.header-box-img {
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+}

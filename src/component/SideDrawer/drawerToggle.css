@@ -1,0 +1,17 @@
+.toggle-button{
+    height: 24px;
+    width: 36px;
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+    color: white;
+    font-size: x-large;
+}
+
+.toggle-button:focus{
+    outline: none;
+}
+
+.toggle-button:hover{
+    color: #27496d;;
+}
