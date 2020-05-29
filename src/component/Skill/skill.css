@@ -1,0 +1,21 @@
+.skill {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 10px;
+    justify-content: space-evenly;
+}
+
+.skill-img {
+    margin: 5px;
+    height: 80px;
+    width: 80px;
+}
+
+.skill-box {
+    width: 400px;
+    height: 300px;
+    border: 2px solid black;
+    padding: 20px;
+    margin: 2% 5px;
+    text-align: center;
+}

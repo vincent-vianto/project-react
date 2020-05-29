@@ -3,21 +3,14 @@ import React from "react";
 import "./header.css";
 
 const Header = () => (
-  <div className="header-cover" id="cover">
+  <div className="header-darken">
+    <div className="header-cover" id="cover">
       <div className="header-box">
-        <img src="" alt="profile" className="header-box-img" />
-        <h4>Vincent Octarian Vianto</h4>
-        <h6> Junior Fullstack Developer</h6>
-        <p>
-          Lorem ipsum dolor sit, amet consectetur adipisicing elit. Eius
-          dignissimos nihil eveniet fuga! Impedit, numquam ratione? Maiores
-          accusamus ducimus minus voluptatibus? Maxime vero magnam non tempore.
-          Eaque vero saepe magnam?Lorem ipsum dolor sit amet consectetur
-          adipisicing elit. Omnis iure reprehenderit deserunt rem et amet beatae
-          eos nam, corrupti, sed eum aperiam laborum repudiandae magnam corporis
-          similique labore, iste cupiditate.
-        </p>
+        <img src="https://cdn.pixabay.com/photo/2012/06/19/10/32/owl-50267_960_720.jpg" alt="profile" className="header-box-img" />
+        <h3>Vincent Octarian Vianto</h3>
+        <h5> Junior Fullstack Developer</h5>
       </div>
+    </div>
   </div>
 );
 
