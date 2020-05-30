@@ -1,14 +1,14 @@
 .portofolio {
     display: flex;
     flex-wrap: wrap;
-    padding: 5px;
+    padding: 10px;
     justify-content: space-evenly;
 }
 
 .portofolio-img {
     margin: 5px;
-    height: 200px;
-    width: 350px;
+    height: 80px;
+    width: 80px;
 }
 
 .portofolio-box {

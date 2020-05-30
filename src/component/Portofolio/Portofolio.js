@@ -6,7 +6,7 @@ const Portofolio = () => (
     <h1>Portofolio</h1>
     <div className="portofolio">
         <div className="portofolio-box">
-            <img src="./assets/img/kazuma.jpg" className="portofolio-img"/>
+            <img src="./assets/img/kazuma.jpg" className="portofolio-img" alt=""/>
             <h1>Memoir</h1>
             <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Eius dignissimos nihil eveniet fuga! Impedit,
                 numquam ratione? Maiores accusamus ducimus minus voluptatibus? Maxime vero magnam non tempore. Eaque
